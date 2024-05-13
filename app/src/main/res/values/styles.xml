@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonTextStyle" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/nunito_italic_variable_font_wght</item>
+    </style>
+    <style name="ToolbarTheme" parent="Widget.AppCompat.Toolbar">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

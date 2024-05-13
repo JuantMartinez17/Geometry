@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geometry</string>
+    <string name="spinner_title">Selecciona una figura: </string>
+    <string name="description_image">""</string>
+    <string-array name="spinner_options">
+        <item>Circulo</item>
+        <item>Rectangulo</item>
+        <item>Cuadrado</item>
+        <item>Triangulo</item>
+    </string-array>
+    <string name="hintSquare">Ingrese el valor de los lados</string>
+    <string name="hintCircle">Ingrese el radio</string>
+    <string name="hintBase">Ingrese la base</string>
+    <string name="hintHeight">Ingrese la altura</string>
+    <string name="button">Calcular area</string>
+</resources>
